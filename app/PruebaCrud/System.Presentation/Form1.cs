@@ -17,15 +17,38 @@ namespace System.Presentation
         {
             InitializeComponent();
             refreshdata();
+ 
             
 
         }
 
+        private void DgvLoansFormat()
+        {
+            clientDataGridView.Columns[0].HeaderText = "Apellidos";
+            clientDataGridView.Columns[1].HeaderText = "Nombre";
+            clientDataGridView.Columns[2].HeaderText = "Dui";
+            clientDataGridView.Columns[3].HeaderText = "Fecha de cumpleaños";
+
+            for (int i = 1; i < 4; i++)
+            {
+                clientDataGridView.Columns[i].Width = 230;
+            }
+        }
         private void refreshdata()
         {
 
-            clientDataGridView.ReadOnly = true;
-            clientDataGridView.DataSource = BClient.ListClients();
+            try
+            {
+                clientDataGridView.ReadOnly = true;
+                DataTable data = new DataTable();
+                data = BClient.ListClients();
+                clientDataGridView.DataSource = data;
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message + e.StackTrace);
+            }
+
 
         }
 
@@ -36,7 +59,9 @@ namespace System.Presentation
 
         private void createbtn_Click(object sender, EventArgs e)
         {
-
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
+            refreshdata();
         }
 
         private void deleteBtn_Click(object sender, EventArgs e)

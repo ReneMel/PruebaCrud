@@ -18,7 +18,7 @@ namespace System.DData
 
         private Connection()
         {
-            this.dbName = "pruebaCRUD";
+            this.dbName = "pruebaCrud";
             this.serverName = "DESKTOP-JB2D4KF";
             this.dbUser = "admin";
             this.dbKeyCode = "admin";
