@@ -61,7 +61,7 @@ namespace System.Presentation
         {
             Form2 f2 = new Form2();
             f2.ShowDialog();
-            refreshdata();
+            
         }
 
         private void deleteBtn_Click(object sender, EventArgs e)

@@ -11,4 +11,3 @@ C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\bin
 C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.exe
 C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.pdb
 C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.Form2.resources
-C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.csproj.CopyComplete
