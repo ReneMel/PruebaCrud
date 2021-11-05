@@ -1,0 +1,12 @@
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.csproj.AssemblyReference.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.Form1.resources
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.Properties.Resources.resources
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.csproj.GenerateResource.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\bin\Debug\System.Presentation.exe.config
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\bin\Debug\System.Presentation.exe
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\bin\Debug\System.Presentation.pdb
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\bin\Debug\System.Business.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\bin\Debug\System.Business.pdb
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.exe
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Presentation\obj\Debug\System.Presentation.pdb

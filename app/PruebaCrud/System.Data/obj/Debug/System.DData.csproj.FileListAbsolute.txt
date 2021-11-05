@@ -1,0 +1,8 @@
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\bin\Debug\System.Data.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\bin\Debug\System.Data.pdb
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\bin\Debug\System.Entities.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\bin\Debug\System.Entities.pdb
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\obj\Debug\System.DData.csproj.AssemblyReference.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\obj\Debug\System.DData.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\obj\Debug\System.Data.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Data\obj\Debug\System.Data.pdb

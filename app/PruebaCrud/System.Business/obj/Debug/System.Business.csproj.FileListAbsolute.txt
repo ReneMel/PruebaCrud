@@ -1,0 +1,8 @@
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\obj\Debug\System.Business.csproj.AssemblyReference.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\obj\Debug\System.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\bin\Debug\System.Business.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\bin\Debug\System.Business.pdb
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\bin\Debug\System.Entities.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\bin\Debug\System.Entities.pdb
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\obj\Debug\System.Business.dll
+C:\Users\Rene\Documents\GitHub\PruebaCrud\app\PruebaCrud\System.Business\obj\Debug\System.Business.pdb
